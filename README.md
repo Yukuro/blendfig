@@ -1,0 +1,2 @@
+# blendfig
+Fusion360でシミュレーションした結果をBlenderに反映するスクリプト
